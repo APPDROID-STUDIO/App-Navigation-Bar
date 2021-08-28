@@ -2,4 +2,6 @@
 
 
 
-Puedes utilizar este codigo simple para la creción de tu aplicación movil para android android.
+Puedes utilizar este codigo simple para la creción de tu aplicación movil para android android :)
+
+
